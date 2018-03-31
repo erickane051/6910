@@ -1,0 +1,7 @@
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\bin\Debug\ApproximateAggregation.exe.config
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\bin\Debug\ApproximateAggregation.exe
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\bin\Debug\ApproximateAggregation.pdb
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\obj\Debug\ApproximateAggregation.csprojResolveAssemblyReference.cache
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\obj\Debug\ApproximateAggregation.csproj.CoreCompileInputs.cache
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\obj\Debug\ApproximateAggregation.exe
+C:\Projects\Junk\ApproximateAggregation\ApproximateAggregation\obj\Debug\ApproximateAggregation.pdb
